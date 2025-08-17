@@ -145,20 +145,20 @@ curl -X POST https://localhost/logout
 -H "Authorization: Bearer <your_token>"
 
 text
-
-[Screenshot 2025-08-16 170410.png](https://github.com/hardiksood1/Secure-Node.js-JWT-Authentication-API-with-SQLite-HTTPS/blob/master/Screenshot%202025-08-16%20170410.png "Screenshot 2025-08-16 170410.png")
-
-[Add files via upload](https://github.com/hardiksood1/Secure-Node.js-JWT-Authentication-API-with-SQLite-HTTPS/commit/4487ef5f55e18b2e4561862bcf2a02c662f613f5 "Add files via upload")
-
----
-
-[Screenshot 2025-08-16 170425.png](https://github.com/hardiksood1/Secure-Node.js-JWT-Authentication-API-with-SQLite-HTTPS/blob/master/Screenshot%202025-08-16%20170425.png "Screenshot 2025-08-16 170425.png")
+[![Screenshot 2025-08-16 170410](https://github.com/hardiksood1/Secure-Node.js-JWT-Authentication-API-with-SQLite-HTTPS/raw/master/Screenshot%202025-08-16%20170410.png)](https://github.com/hardiksood1/Secure-Node.js-JWT-Authentication-API-with-SQLite-HTTPS/blob/master/Screenshot%202025-08-16%20170410.png)
 
 [Add files via upload](https://github.com/hardiksood1/Secure-Node.js-JWT-Authentication-API-with-SQLite-HTTPS/commit/4487ef5f55e18b2e4561862bcf2a02c662f613f5 "Add files via upload")
 
 ---
 
-[Screenshot 2025-08-16 170438.png](https://github.com/hardiksood1/Secure-Node.js-JWT-Authentication-API-with-SQLite-HTTPS/blob/master/Screenshot%202025-08-16%20170438.png "Screenshot 2025-08-16 170438.png")
+[![Screenshot 2025-08-16 170425](https://github.com/hardiksood1/Secure-Node.js-JWT-Authentication-API-with-SQLite-HTTPS/raw/master/Screenshot%202025-08-16%20170425.png)](https://github.com/hardiksood1/Secure-Node.js-JWT-Authentication-API-with-SQLite-HTTPS/blob/master/Screenshot%202025-08-16%20170425.png)
+
+[Add files via upload](https://github.com/hardiksood1/Secure-Node.js-JWT-Authentication-API-with-SQLite-HTTPS/commit/4487ef5f55e18b2e4561862bcf2a02c662f613f5 "Add files via upload")
+
+---
+
+[![Screenshot 2025-08-16 170438](https://github.com/hardiksood1/Secure-Node.js-JWT-Authentication-API-with-SQLite-HTTPS/raw/master/Screenshot%202025-08-16%20170438.png)](https://github.com/hardiksood1/Secure-Node.js-JWT-Authentication-API-with-SQLite-HTTPS/blob/master/Screenshot%202025-08-16%20170438.png)
+
 
 
 
