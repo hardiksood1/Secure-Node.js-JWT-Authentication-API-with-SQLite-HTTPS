@@ -1,0 +1,31 @@
+{
+  "name": "express-auth-https",
+  "version": "1.0.0",
+  "description": "Industrial-ready Express API with JWT, SQLite, and HTTPS",
+  "main": "app.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "redirect": "node http-redirect.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^4.19.2",
+    "express-rate-limit": "^7.4.0",
+    "git": "^0.1.5",
+    "helmet": "^7.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "morgan": "^1.10.0",
+    "openssl-nodejs": "^1.0.5",
+    "package.json": "^2.0.1",
+    "selfsigned": "^3.0.1",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
